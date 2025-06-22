@@ -9,7 +9,6 @@ __pycache__/
 .env
 
 # Ignore log files
-*.log
 
 # Ignore VS Code settings
 .vscode/
